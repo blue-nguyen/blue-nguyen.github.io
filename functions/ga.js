@@ -5,8 +5,7 @@ const GA_ENDPOINT = `https://www.google-analytics.com/collect`;
 
 // Domains to allowlist. Replace with your own!
 const originallowlist = []; // keep this empty and append domains to allowlist using allowlistDomain()
-// Update me.
-allowlistDomain("eleventy-high-performance-blog-sample.industrialempathy.com/");
+allowlistDomain("blue-nguyen.github.io/");
 
 function allowlistDomain(domain, addWww = true) {
   const prefixes = ["https://", "http://"];
@@ -130,8 +129,8 @@ sr: 1440x900
 vp: 945x777
 je: 0
 _u: blabla~
-jid: 
-gjid: 
+jid:
+gjid:
 cid: 1837873423.1522911810
 tid: UA-116530991-1
 _gid: 1828045325.1524815793
