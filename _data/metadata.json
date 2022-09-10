@@ -1,13 +1,13 @@
 {
   "title": "Blue Nguyen's home",
   "url": "https://blue-nguyen.github.io",
-  "domain": "update-me.com",
+  "domain": "blue-nguyen.github.io",
   "description": "Welcome to my online home.",
   "genre": "Insert a schema.org genre",
-  "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
+  "googleAnalyticsId": "G-GNJKZP9Z7M",
   "sendWebVitals": false,
   "feed": {
-    "subtitle": "Feeds of my publishes",
+    "subtitle": "Feeds of all of me",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://blue-nguyen.github.io"
