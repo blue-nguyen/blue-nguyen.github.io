@@ -1,159 +1,163 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  
-  
-  
-  
-  
-  
-    
-  
   <url>
-    <loc>https://blue-nguyen.github.io/posts/firstpost/</loc>
-    <lastmod>2022-09-11T07:58:16.000Z</lastmod>
+    <loc>https://blue-nguyen.github.io/blue-nguyen-works/</loc>
   </url>
-  
-  
-  
-  
-  
-  
-  
     
-  
-  <url>
-    <loc>https://blue-nguyen.github.io/posts/secondpost/</loc>
-    <lastmod>2022-09-11T07:58:16.000Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
-  
     
-  
-  <url>
-    <loc>https://blue-nguyen.github.io/posts/thirdpost/</loc>
-    <lastmod>2022-09-11T07:58:16.000Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
-  
     
-  
-  <url>
-    <loc>https://blue-nguyen.github.io/posts/fourthpost/</loc>
-    <lastmod>2022-09-11T07:58:16.000Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
     
-  
-  
-  <url>
-    <loc>https://blue-nguyen.github.io/about/</loc>
-    <lastmod>2022-09-11T07:58:56.278Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
     
-  
-  
-  <url>
-    <loc>https://blue-nguyen.github.io/posts/</loc>
-    <lastmod>2022-09-11T07:58:56.278Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
     
-  
-  
-  <url>
-    <loc>https://blue-nguyen.github.io/</loc>
-    <lastmod>2022-09-11T07:58:56.298Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
     
-  
-  
-  <url>
-    <loc>https://blue-nguyen.github.io/page-list/</loc>
-    <lastmod>2022-09-11T07:58:56.302Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
+      
     
-  
-  
-  <url>
-    <loc>https://blue-nguyen.github.io/tags/</loc>
-    <lastmod>2022-09-11T07:58:56.302Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
+    <url>
+      <loc>https://blue-nguyen.github.io/posts/firstpost/</loc>
+      <lastmod>2022-09-11T08:18:02.000Z</lastmod>
+    </url>
     
-  
-  
-  <url>
-    <loc>https://blue-nguyen.github.io/tags/second-tag/</loc>
-    <lastmod>2022-09-11T07:58:56.302Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
     
-  
-  
-  <url>
-    <loc>https://blue-nguyen.github.io/tags/another-tag/</loc>
-    <lastmod>2022-09-11T07:58:56.302Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
     
-  
-  
-  <url>
-    <loc>https://blue-nguyen.github.io/tags/number-2/</loc>
-    <lastmod>2022-09-11T07:58:56.302Z</lastmod>
-  </url>
+    
+    
+    
+    
+      
+    
+    <url>
+      <loc>https://blue-nguyen.github.io/posts/secondpost/</loc>
+      <lastmod>2022-09-11T08:18:02.000Z</lastmod>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <url>
+      <loc>https://blue-nguyen.github.io/posts/thirdpost/</loc>
+      <lastmod>2022-09-11T08:18:02.000Z</lastmod>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <url>
+      <loc>https://blue-nguyen.github.io/posts/fourthpost/</loc>
+      <lastmod>2022-09-11T08:18:02.000Z</lastmod>
+    </url>
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    <url>
+      <loc>https://blue-nguyen.github.io/about/</loc>
+      <lastmod>2022-09-11T08:18:26.959Z</lastmod>
+    </url>
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    <url>
+      <loc>https://blue-nguyen.github.io/posts/</loc>
+      <lastmod>2022-09-11T08:18:26.959Z</lastmod>
+    </url>
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    <url>
+      <loc>https://blue-nguyen.github.io/</loc>
+      <lastmod>2022-09-11T08:18:26.975Z</lastmod>
+    </url>
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    <url>
+      <loc>https://blue-nguyen.github.io/page-list/</loc>
+      <lastmod>2022-09-11T08:18:26.975Z</lastmod>
+    </url>
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    <url>
+      <loc>https://blue-nguyen.github.io/tags/</loc>
+      <lastmod>2022-09-11T08:18:26.975Z</lastmod>
+    </url>
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    <url>
+      <loc>https://blue-nguyen.github.io/tags/another-tag/</loc>
+      <lastmod>2022-09-11T08:18:26.975Z</lastmod>
+    </url>
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    <url>
+      <loc>https://blue-nguyen.github.io/tags/second-tag/</loc>
+      <lastmod>2022-09-11T08:18:26.975Z</lastmod>
+    </url>
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    <url>
+      <loc>https://blue-nguyen.github.io/tags/number-2/</loc>
+      <lastmod>2022-09-11T08:18:26.975Z</lastmod>
+    </url>
 </urlset>

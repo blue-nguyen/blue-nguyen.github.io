@@ -20,19 +20,9 @@
 /about/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
-
 /404.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
 
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
-
-/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
-/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/index.html
@@ -40,19 +30,29 @@
 /posts/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
 
+/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
+/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
+
 /page-list/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
 /page-list/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/second-tag/index.html
+/tags/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/second-tag/
+/tags/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/another-tag/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/another-tag/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
+
+/tags/second-tag/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/second-tag/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-eGD//hxA79b7srAQ0fJ6X1IMxQRLEOzmPPQFMN0KxYY=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/number-2/index.html
