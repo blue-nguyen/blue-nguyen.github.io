@@ -180,6 +180,9 @@ module.exports = function (eleventyConfig) {
   // We need to copy cached.js only if GA is used
   eleventyConfig.addPassthroughCopy(GA_ID ? "js" : "js/*[!cached].*");
   eleventyConfig.addPassthroughCopy("fonts");
+  eleventyConfig.addPassthroughCopy({
+    'src/google6c17bdffaa75ddb5.html': '/google6c17bdffaa75ddb5.html',
+  });
 
   // We need to rebuild upon JS change to update the CSP.
   eleventyConfig.addWatchTarget("./js/");
