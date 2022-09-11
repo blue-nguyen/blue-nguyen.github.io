@@ -5,7 +5,7 @@
   "description": "Welcome to my online home.",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "G-GNJKZP9Z7M",
-  "sendWebVitals": false,
+  "sendWebVitals": true,
   "feed": {
     "subtitle": "Feeds of all of me",
     "filename": "feed.xml",
