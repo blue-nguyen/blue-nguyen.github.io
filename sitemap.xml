@@ -63,7 +63,7 @@
   
   <url>
     <loc>https://blue-nguyen.github.io/about/</loc>
-    <lastmod>2022-09-11T07:58:53.752Z</lastmod>
+    <lastmod>2022-09-11T07:58:56.278Z</lastmod>
   </url>
   
   
@@ -76,7 +76,7 @@
   
   <url>
     <loc>https://blue-nguyen.github.io/posts/</loc>
-    <lastmod>2022-09-11T07:58:53.752Z</lastmod>
+    <lastmod>2022-09-11T07:58:56.278Z</lastmod>
   </url>
   
   
@@ -89,7 +89,7 @@
   
   <url>
     <loc>https://blue-nguyen.github.io/</loc>
-    <lastmod>2022-09-11T07:58:53.768Z</lastmod>
+    <lastmod>2022-09-11T07:58:56.298Z</lastmod>
   </url>
   
   
@@ -102,7 +102,7 @@
   
   <url>
     <loc>https://blue-nguyen.github.io/page-list/</loc>
-    <lastmod>2022-09-11T07:58:53.772Z</lastmod>
+    <lastmod>2022-09-11T07:58:56.302Z</lastmod>
   </url>
   
   
@@ -115,20 +115,7 @@
   
   <url>
     <loc>https://blue-nguyen.github.io/tags/</loc>
-    <lastmod>2022-09-11T07:58:53.772Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
-    
-  
-  
-  <url>
-    <loc>https://blue-nguyen.github.io/tags/another-tag/</loc>
-    <lastmod>2022-09-11T07:58:53.772Z</lastmod>
+    <lastmod>2022-09-11T07:58:56.302Z</lastmod>
   </url>
   
   
@@ -141,7 +128,20 @@
   
   <url>
     <loc>https://blue-nguyen.github.io/tags/second-tag/</loc>
-    <lastmod>2022-09-11T07:58:53.772Z</lastmod>
+    <lastmod>2022-09-11T07:58:56.302Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <url>
+    <loc>https://blue-nguyen.github.io/tags/another-tag/</loc>
+    <lastmod>2022-09-11T07:58:56.302Z</lastmod>
   </url>
   
   
@@ -154,6 +154,6 @@
   
   <url>
     <loc>https://blue-nguyen.github.io/tags/number-2/</loc>
-    <lastmod>2022-09-11T07:58:53.772Z</lastmod>
+    <lastmod>2022-09-11T07:58:56.302Z</lastmod>
   </url>
 </urlset>
